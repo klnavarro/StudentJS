@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+
+h1
+{
+	font-family: 'arial black';
+	color: #fff;
+	font-size: 36pt;
+	line-height: 36pt;
+}
+
+h2
+{
+	font-family: georgia;
+	color: #fff;
+	font-weight: bold;
+	font-style:;
+	font-size: 20pt;
+	letter-spacing: 9pt;
+	line-height: 21pt;
+	text-align: right;
+	padding-right: 40px;
+	padding-left: 45px;
+	width: 70%;
+	background-color: #436090;
+	background-image: url( https://piskel-imgstore-b.appspot.com/img/d1be95c7-d5eb-11e9-95f3-d95e30d90648.gif );
+	background-repeat: no-repeat;
+	background-position:1% 50%;
+}
+
+h3 
+{
+	font-family: georgia;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 20pt;
+	line-height: 20pt;
+	color: #fff;
+	background-color: #A8688E;
+	text-align: right;
+	padding-right: 40px;
+	padding-left: 45px;
+	padding-bottom:0pt;
+	margin-bottom:0pt;
+}
+
+h4 
+{
+	font-family: georgia;
+	font-style: italic;
+	font-size: 16pt;
+	color: #fff;
+}
+
+body
+{
+	font-family: "Trebuchet MS";
+	font-size: 11pt;
+	line-height: 14pt;
+	font-weight: 200;
+	background-color: #353959;
+	margin-left:5%;
+}
+
+strong
+{
+	font-family: "georgia";
+	font-size: 16pt;
+	font-style: italic;
+	margin: 10%;
+}
+
+i
+{
+	font-family: "times new roman";
+	font-size: 11pt;
+	font-weight: lighter;
+}
+
+u
+{
+	font-weight: lighter;
+	letter-spacing: 0.7pt;
+}
+
+a.my_menu:link
+{
+	display: inline-block;
+	text-decoration:none;
+	font-family: consolas;
+	letter-spacing: 3pt;
+	color: #fff;
+	background-size: 100%;
+	background-color: #579986;
+	width: 95%;
+	padding-left: 5%;
+}
+
+a.my_menu:hover
+{
+	display: inline-block;
+	text-decoration:none;
+	font-family: consolas;
+	letter-spacing: 3pt;
+	color: #579986;
+	font-weight: bold;
+	font-style:italic;
+	text-decoration:none;
+	background-size: 100%;
+	background-color:#fff;
+	width: 95%;
+	padding-left: 5%;
+}
+
+#time{
+	font-family: "courier new";
+	font-size: 10pt;
+	color:#fff;
+	line-height: 14pt;
+	width:80%;
+	text-align: right;
+}
+
+#footer{
+	font-family: "courier new";
+	font-size: 10pt;
+	color:#fff;
+	line-height: 14pt;
+	width:80%;
+}
+
+table
+{
+	width:72%;
+	text-align: left;
+	padding: 10px;
+	background-color: #F1EDE5;
+}
+
+table#products
+{
+	padding: 15px; 
+	border:1px solid black;
+	vertical-align: top;
+}
+
+table#footer
+{
+	width:90%;
+	padding: 8px;
+	background-color:transparent;
+}
+
+table#ad1
+{
+	float:left;
+	width:250px;
+	height:50px;
+	margin: 15px;
+	background-color:#C4527B;
+}
+
+table#ad2
+{
+	float:left;
+	width:250px;
+	height:250px;
+	margin: 15px;
+	background-color:#53356B;
+}
+
+table#ad3
+{
+	float:left;
+	width:200px;
+	height:200px;
+	margin: 15px;
+	background-color:#522143;
+}
+
+</style></head></html>

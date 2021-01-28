@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+
+
+<script src="student.js"></script>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+
+
+<body>
+	<br>
+
+	<div id="header">
+	<script>document.getElementById("header").innerHTML = getHeader();</script>
+	</div>
+ 
+	<table id="products"><tr>
+		<td valign="top" style='width:10%'><div id='my_menu'> Menu </div></td>
+		<td style='width:90%'><div id='my_main'> Main Web Page </div></td>
+	</tr></table>
+
+
+	<table id="footer">
+		<tr>
+		<td>
+		<div id="foot">
+			<script>document.getElementById("foot").innerHTML = getFooter(companyname, address, phonenumber);
+			</script>
+		</div>
+		</td>
+	</tr></table>
+
+	<script>document.getElementById("my_menu").innerHTML = makeMenu(3);</script>
+
+
+
+</body>
+</html>
